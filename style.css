@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: url('back.jpg') center/cover no-repeat;
+}
+h1{
+    color: blueviolet;
+}
+p{
+    color: darkred;
+}
+.pages{
+    text-align: center;
+}
+.squeezpages{
+    background-color: limegreen;
+    text-align: center;
+    height: 50vh;
+    width: 80vh;
+    padding: 30px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+
+}
